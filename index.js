@@ -1,4 +1,4 @@
 
-console.log
+console.log("Hello, World!")
 
 nodejs index.js
